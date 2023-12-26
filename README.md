@@ -1,4 +1,5 @@
-# Project Name
+# Pale Blue Dot
+## a guide made by an enthusiast for other enthusiasts
 
 This project was initially written in Brazilian Portuguese and later translated into multiple languages using ChatGPT.
 
