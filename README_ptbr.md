@@ -3,7 +3,7 @@
 
 Este desafio proposto pela driven data, em conjunto com a NASA e NASA Tournament Labs - *NTL*
 É um desafio cujo objetivo visa atingir os Objetivos de Desenvolvimento Sustentável - *ODS*
-Os objetivos em palta são: Fome Zero, Limpeza e Sanitariedade das Águas e Mudanças Climáticas
+Os objetivos em pauta são: Fome Zero, Limpeza e Sanitariedade das Águas e Mudanças Climáticas
 
 Como analista de dados, cientista ou cidadão cientista, você deve criar visuais intrigantes que ajudem os legisladores - *policymakers* a tomarem decisões. 
 
