@@ -5,7 +5,7 @@ This challenge proposed by driven data, in conjunction with NASA and NASA Tourna
 Is a challenge whose goal aims to achieve the Sustainable Development Goals - *SDGs*
 The objectives in focus are: Zero Hunger, Clean Water and Sanitation, and Climate Change
 
-As a data analyst, scientist, or citizen scientist, you must create intriguing visuals that help policymakers - *policymakers* make decisions.
+As a data analyst, scientist, or citizen scientist, you must create intriguing visuals that help policymakers make decisions.
 
 Attention: It is necessary to use public data about the USA in your study. Check the available datasets in full at: [Pale Blue Dot](https://www.drivendata.org/competitions/256/pale-blue-dot/)
 
